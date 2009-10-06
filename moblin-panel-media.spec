@@ -17,7 +17,7 @@ BuildRequires: bognor-regis-devel
 BuildRequires: intltool
 BuildRequires: gettext
 BuildRequires: gnome-common
-BuildRequires: libtdb-devel
+BuildRequires: tdb-devel
 
 %description
 Moblin media panel
