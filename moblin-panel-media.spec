@@ -1,7 +1,7 @@
 Name: moblin-panel-media
 Summary: Media panel for Moblin
 Group: Graphical desktop/Other 
-Version: 0.0.3
+Version: 0.0.6
 License: LGPL 2.1
 URL: http://www.moblin.org
 Release: %mkrel 2
